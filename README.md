@@ -1,6 +1,6 @@
 ![Data Analytics Portfolio Banner](assets/banner.png)
 
-# Data Analytics | Business Intelligence | Project Delivery
+### Data Analytics | Business Intelligence | Project Delivery
 
 Turning complex data into clear insights and better business decisions.
 
